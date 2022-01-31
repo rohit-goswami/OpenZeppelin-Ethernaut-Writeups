@@ -22,7 +22,7 @@ Steps to follow:
 11. ```contract.authenticate("ethernaut0")```: confirm the metamask transaction and wait for few seconds.
 12. Now submit the instance, confirm the transaction and wait for completion.
 
-> Further learning: 
+# Further learning: 
  https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts/235
  https://medium.com/@houzier.saurav/calling-functions-of-other-contracts-on-solidity-9c80eed05e0f
  https://medium.com/mycrypto/the-ethereum-virtual-machine-how-does-it-work-9abac2b7c9e
