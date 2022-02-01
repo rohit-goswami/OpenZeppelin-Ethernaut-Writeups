@@ -63,9 +63,8 @@ contract Fallback {
 Read the following resources before attempting the Hack: 
 1. Truth About **Fallback funtion** : https://tinyurl.com/yckyejw2
 2. Ether which is native currrency of Ethreum has several units
-    * wei is smallest unit.
-    * 1 ether = 1000000000000000000 wei.
     * “wei” are the smallest ether unit, and you should always make calculations in wei and convert only for display reasons.
+    * 1 ether = 1000000000000000000 wei.
     * Read more: https://tinyurl.com/4mfpzsrz
 
 ## Lets Hack it! 
